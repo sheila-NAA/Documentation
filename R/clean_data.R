@@ -7,7 +7,7 @@
 #'     of type date by combining \code{Year}, \code{Mo} and \code{Dy}. It then
 #'     makes sure that \code{Longitude} and \code{Latitude} are of type numeric.
 #'
-#' @param data a data frame of NOAA earthquake.
+#' @param data a dataframe of NOAA earthquake.
 #'
 #' @return A \code{tibble} with a new column \code{Date} but removing
 #'     \code{Year}, \code{Mo} & \code{Dy} variables of the input data frame.
