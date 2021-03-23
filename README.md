@@ -26,7 +26,7 @@ In order to install the `noaar` package, you must first install the
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("AnoushiravanR/noaar")
+devtools::install_github("sheilaNAA/noaar")
 ```
 ## Load and clean package data
 
