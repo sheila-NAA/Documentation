@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 # noaar
 
 <!-- badges: start -->
-[![Build Status](https://travis-ci.org/AnoushiravanR/noaar.svg?branch=main)](https://travis-ci.org/AnoushiravanR/noaar)
+[![Build Status](https://travis-ci.org/sheilaNAA/noaar.svg?branch=main)](https://travis-ci.org/sheilaNAA/noaar)
 <!-- badges: end -->
 
 The `noaar` package has been built for cleaning and mapping NOAA's Significant 
